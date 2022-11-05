@@ -1,0 +1,2 @@
+This file was also added in the feature1 branch
+One -more changed in the feature-1 branch
